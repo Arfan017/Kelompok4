@@ -1,0 +1,6218 @@
+fileFormatVersion: 2
+guid: ec2e0a0bbfbf6c742be83c8f0e050876
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafaa032198f2f0459aacf5c17d6e45b
+      internalID: 800858726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d552d0dc217644c4a9496526442fa23c
+      internalID: 438223989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689037dfc0d57bf4289aff2210622c1f
+      internalID: -1463245191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac6ec12a05fb9a469d7cd78d65cc135
+      internalID: 1724935363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fff1fe344713d48b1043df4c100cef
+      internalID: -1772501356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c8f0365f0f0d549997232fdd5fba9c
+      internalID: -624490879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e334b273efd9f844b850dbc24ca8db88
+      internalID: 1231477139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4734340a5049c948aedc6999f5a1d86
+      internalID: 1534289052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd48bb45ebfeb9245a74e4cb25ba5611
+      internalID: -1659988940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3da9ec248585a4b96c874cc85184a8
+      internalID: 630597064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aa2846f51ccb748bb8f02431a88274
+      internalID: 1064597087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c0f2037639cc4fab03b972a2249bd
+      internalID: -272772614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 647
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160261ceb0178c2459997697c15ce4a0
+      internalID: 1538327779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605debdd7651f26498b80ee1b0c5454b
+      internalID: 1592671335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b83b194d5cded40a2b91974581e174
+      internalID: 722194886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f598829a64c3e4f409620ee1416b0a83
+      internalID: -1023816295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6184ca13f9d0654faa151ffd36d8061
+      internalID: 1712376715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cb02ff58b925c4fa909a10f39b907e
+      internalID: -1513053450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f48649e7a8ffd04db39ab4ea86f7bec
+      internalID: 437745827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476f4ce28b298de44b1c87589cbb6e97
+      internalID: 1187386097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378a2118d50ef1e448403c0c534597c3
+      internalID: -1451278725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c812d180a31f08e4d93be584af63d9d9
+      internalID: -478083411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf23948b73f00c47936ea6ad2ab1fbf
+      internalID: -2065894635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578f4a16d7a9e984cb2bd319937c5c9d
+      internalID: 724300697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6849fb1ded59c409942ca7d1b05f91
+      internalID: 114754554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8c74d94e7d50448bd11254fb2d6e16
+      internalID: -1387619224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaab0b54d482aa4438172fa24b0d658e
+      internalID: -1131854060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fdaf144bef2a647aa860eb369f1ba8
+      internalID: -1191060338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 615
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8546bbdd3afb0224198c056dce9d94dd
+      internalID: -991041958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dcf75757687c748b9561498d5077c4
+      internalID: 1473838285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694111a5d5777c54494ef1f7d4c3c731
+      internalID: -935628390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b083db3ca2d597c4ca505a47410571bc
+      internalID: -1043405315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a48fa5c34e119448e591b37836d771
+      internalID: -1782454027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe20077486ccb2499c47cf936e3ea9f
+      internalID: -1990828008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da68fe12e7aea14b8c69ceb459df2d4
+      internalID: -975304971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b6723a53317a44fb4f27f1ec2fe928
+      internalID: 157232483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df5fa4b303e453439c4b746bcff21b3
+      internalID: 174754034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1f6c234ff27614a838c29d27b996f9
+      internalID: 1361662462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa820e00e5abef0428481acf6967abec
+      internalID: -1617689015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212f2270b1fda4f478820dcec0a1751e
+      internalID: -1041873154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add9a4301b51cc4ab76f0c8986fcede
+      internalID: 411335734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43b2af7da62f4f42883f7bf53e00a0c
+      internalID: -1827412751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_42
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 583
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68a1a0a835a166429c378876e2737b0
+      internalID: -27785789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0dfdb75022fd6438dbb37f80200bdb
+      internalID: 1055726454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0198526b3b954f940a72cd51a5e7a51c
+      internalID: -1104867295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d75b89b2aa1a942b45e4b85dd7c60f
+      internalID: 1176491179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429ab6d7213ec144ba8833cac5ee8df7
+      internalID: -111842371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46718d4db6c5d6438c36c9713991f4c
+      internalID: 761965444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb468e767c93e6642acb6c70445ebc0e
+      internalID: -1115952947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e618a9d6508894f98e83aebbf96590
+      internalID: 1758669885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247e97acba7bf8b4a94c97af052b0b61
+      internalID: -2031250133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc9423aa797c124f8f5f091f97257cc
+      internalID: -1725236136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6a9460c6988444c83f1426b46cfbc7
+      internalID: -227735376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e779f8c21d64350439f2e76019aa9717
+      internalID: 1217597161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f499f55749a53654087f82a935b1dc5e
+      internalID: -1235041540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7209282e5eefc2b4ca5b5cfed6930864
+      internalID: 816558287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd39ff0c5aad8dd4cacafc5748a46310
+      internalID: 225318978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a92fab4ff5834d96755e2a118b815
+      internalID: -1319932144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f00bdad98d751842a436f8fde818dc1
+      internalID: 69399030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 551
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448740e6a19b5a444a4a8f50b1a10f13
+      internalID: 1458643345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a496d7c196288498d87071b785c0e5
+      internalID: 1109429137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98013e9ff95a71047a3d6225f856bca7
+      internalID: 552360590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c990dc3b2610349b9947ab8d7c9455
+      internalID: -1144442609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f09f994237b97c43a923884e3d041fc
+      internalID: -1150650149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b82d92d66e92746af645487731030e
+      internalID: 311797779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4eaad79d2c853449b7d21eeb4fb7cb
+      internalID: -480614062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae315adf09ba40419d8bbdd97fba150
+      internalID: 219339504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a800f709d55e9e4a9a75239b57da458
+      internalID: 1244682069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dd7d852e6b3fb44a779765fbe1cb6a
+      internalID: -1688105109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2c2e4b6211c6b4abf517ddd08deeef
+      internalID: 1320147750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95edfe9387232f4468b2059e6edaf1dd
+      internalID: 760401589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3797090bdce33cf45a04cbc8d2bce029
+      internalID: 856888486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7c5d3b35dfd5f48ae5f886a1514cae
+      internalID: 534126613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c1901c03888914fb5d191539c4722f
+      internalID: -1084338716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20076c8de1750546a1249657853e92d
+      internalID: -323074686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1967b35d2224a454488982f0abe8777c
+      internalID: 879275185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5f841ff26b76e40bce7324c3e65ba7
+      internalID: 977682532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c941641128e3a845be5517489a71ac5
+      internalID: -674348276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_78
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9a8b5cb7e0e934d927d10e10b35f8e
+      internalID: -1547265510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fe4909d0192a74e9580d577d0dffec
+      internalID: 925886290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_80
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bec6d49b8502194d8bd6091a0030806
+      internalID: 541934464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_81
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d266f96c627f4974496ef121b32c2e1e
+      internalID: 1543034736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 487
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6546cff82009044ca3c23a8e2929582
+      internalID: 1065183465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d36e1dafb16d234bada64627609cdeb
+      internalID: 2081079482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff241a5aaa1d2844890fcd29d31a538
+      internalID: -1090967467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac89e22505074548b926500847cc659
+      internalID: 2058000782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def05aaf15c053444bb9f2c457730676
+      internalID: 1644736425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653e59c6708ab7f4ca6ee7ec99706d4f
+      internalID: 365189516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af0a095360b21349b75900e18bf2e66
+      internalID: -2015705785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce78dbd521e1ddc42861403384546615
+      internalID: -492064820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab658c2407e82154bb260193ee991e16
+      internalID: -38858941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7922126e94e64d0429b02c47f70dda8f
+      internalID: 1566219063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc94de8e1dfeaa54db9232d53ba7e6ed
+      internalID: 729795788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_93
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a312322ebe14846b70146167881899
+      internalID: -56848146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dbbb658a185e240b29c5fe7180a566
+      internalID: -1272970977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_95
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e137ec67b8e00324ba4621cebee1253d
+      internalID: -411272591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52708e657b3ce344ae8dd5e54069a39
+      internalID: 661215336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1878362efa87a664da0588000b783e8c
+      internalID: 601828251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b5dedb112bddf4ba196c48ecad5b1f
+      internalID: -1024570358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_99
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 455
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f7b0decb0639b49b148336c6937ad7
+      internalID: 1020501935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885092a7f6149e244b102f8c3fbf45bd
+      internalID: 1491230544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf004617373ca0438d641ec7d5975d9
+      internalID: 1596551597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6500ff7b3c61e0409e7bb03bdc3ed14
+      internalID: -750094967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263f166fa5fe7944e8dc1dc80463c217
+      internalID: -359791722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e5da5969d99d44878b3d322709b34
+      internalID: -332034394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d859dbe8185df4982ea2bac0acf45e
+      internalID: -230862522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20bf98e2ae36d246b11b692f8d437a0
+      internalID: -1149032822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205917fa1b678594fb6f4b0e6068e29a
+      internalID: 540497494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89562e206c4ea18438dec923d6acc03b
+      internalID: 2086525772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcec3805d8694ac4fa52a8541f54b1df
+      internalID: 1689873588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_110
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40c7ba7782fdc54bbbcd512d30b93c9
+      internalID: -1874716982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a7586b3b525464c8704a9d7e2f556f
+      internalID: -220527940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_112
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4188ae3c168faee4e89b8e9d4640bb86
+      internalID: 870220423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_113
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e96d830976e9e34bbe78bcfc6c5ef57
+      internalID: 1280640742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca6612475cf3a742a35fe1ede3736c7
+      internalID: -454234858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_115
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a309faea84a82243b6f915ed642f887
+      internalID: 454216586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_116
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 423
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e48398503dbc4b9e6bee92ea783fb
+      internalID: -850527507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa97ed7d6eca234fa36eac9b3d789df
+      internalID: 1727967108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc30195ac5b9704ca3dc856ff9c071c
+      internalID: -250970507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f83452438f66ac4ba0f44d3de65f867
+      internalID: -1550102559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae08a46312830114b8f271faed93ca3c
+      internalID: 868237602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce98d93879fc4ed46ad38638983eff0c
+      internalID: -1241592900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c5d500b60ea0e48a9d6944ebb8fac3
+      internalID: 2076459324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5766f642e3b360a408e30d5cf10cfef9
+      internalID: -74964808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2233a144a3a8b2547bb4df379fa2204e
+      internalID: -826415182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_125
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93247dc6cbc22a543b04de26c9143512
+      internalID: 1611739170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5dbff5a82d91f49bd692fc39ef0018
+      internalID: 633179977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_127
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d821120a5ef60e4996cae86826359c3
+      internalID: 1951816114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c5671ebccc44742af2a9e5e83bc322
+      internalID: 707284809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_129
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225e0295f5a1b0b4bb1c91c13ea82c01
+      internalID: 1714283313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_130
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8112a55f45b73f14eb8b40bf5352441c
+      internalID: -298072593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cc7b52f5b355840b22834603a1a459
+      internalID: -1199530182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6e4bdb791c4b3449d3ff2bad29b9f2
+      internalID: -843109077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_133
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ad55349d09bfb4d97e3e51b941ea39
+      internalID: -1475711215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e539e04b7bd2b49b2c8424e6dd3070
+      internalID: -2105736173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f856a32e0aee7d942b7742b8a100c45d
+      internalID: -50309077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04332cd4151d0643bdd25f261bdb1a9
+      internalID: 1081339235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48fb2a867593346adb81d8ac947557
+      internalID: -1920365146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779cc7d844c60444bce9b9938ae2e0f
+      internalID: -1614309712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_139
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d797d0c02727e64287800766926150d
+      internalID: -487573994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77089477b630fe746946d04006ee1035
+      internalID: -1032860386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3885a3b556eb4d44a28c751328da7f3
+      internalID: 631556257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f2d9df3756054898a67821f7ae9a6
+      internalID: 492446975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_143
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f7e040810523943b4e0886a416c638
+      internalID: -2095909645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_144
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d04e524459eb3499f9e57efd804dc9
+      internalID: -618492584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_145
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a538f098b6114ba4b88eaf186577ca6a
+      internalID: -917451392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f19e6889621a6e4a9ae971308334952
+      internalID: -1675812082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_147
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 359
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a483d3f4157ae0c4fb52720eb80d307a
+      internalID: -189959133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47767922acf776c40a30c02744fce239
+      internalID: -533153990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74585c351a1d264c874bdaa432fd5cd
+      internalID: -623858334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_150
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a92976b429d774f9c4b12061bd9460
+      internalID: -156070804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fbd7cb34868fa4b9cd67ac61b452ef
+      internalID: -126542789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_152
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74392e93fe74eec4c9328d3ac16216ca
+      internalID: -1335227004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_153
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c5468eb246955498ac9bc3d460fb56
+      internalID: 1171849692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_154
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a99226b047beb4bbcfe84bdca7f1e6
+      internalID: -1869354646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_155
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e016d3e27a2884cbdea42532f3ce69
+      internalID: 2133779162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_156
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88800840b95cbf46b053a862407073f
+      internalID: 1287014094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_157
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c3ceb36db24484aad60e8193859a8a
+      internalID: -167069563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aea0d9101a3cb54793057524a5c4421
+      internalID: -317856378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfda86a53884fd54195b7d7c47bd8eaf
+      internalID: -94871981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d21765147d8b41a77a2f09ec716ce
+      internalID: 358679646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_161
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047aded4ef078794b963ebf385f94f6c
+      internalID: -878067775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613b550ee1f6c3f40bf645b2a2002ef5
+      internalID: 2078969306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_163
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d349211826ada5347bf65172122d12fd
+      internalID: -1984196919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da509aeeb1ab9ea468b9409494135f66
+      internalID: 290707189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7118b7af9e4e47438cd5bb9be7a7702
+      internalID: 690228888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e132cc9891258a8469b1fdd636de1a23
+      internalID: 1819640994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_167
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e31b34a618a3440b55c3991c40867e
+      internalID: -647441768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60871e86d88f3344b1ecca7fae0f0bd
+      internalID: -79247157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52955c1434594f244ad03ad0a0a22362
+      internalID: -1001394548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51758e73ce1c97d4aaff644971de1107
+      internalID: -1908632768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f02f568b76c7f41bc8cbc5d027cf09
+      internalID: -1376120050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b84d507291980e47a0b0d42e721b6f7
+      internalID: -1134104246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_173
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27306f12cf684784ca621da4600a02b1
+      internalID: -22291988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_174
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b233811881b3340a48b88a6a44e402
+      internalID: -1025743175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_175
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4fe6df8248bb746a2e4407d83fa063
+      internalID: 746579839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c10804ddba261d4b902ed3d4f3848da
+      internalID: 1420230248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_177
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06e1dac94b19a646b29769f2308d4b1
+      internalID: 1715628950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_178
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5412780b6c7cd1945a7c377022aa3bb1
+      internalID: 1414007300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf957ab2485c444f8e928442f3b8357
+      internalID: 2009899669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1fd9ba5aef7e9439cb8cbd41f7c013
+      internalID: -1706296018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_181
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eecc85c78525e34c8a188112911b14b
+      internalID: 305753809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7d5876a3e1eda4ebdcbdd5e8218f9a
+      internalID: 20521243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e176e765304820a48b6d7a7dd108c79b
+      internalID: 1396084536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e61bdd2aacca142bc4ba602a6d82dd
+      internalID: -949041453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_185
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef60a0f3f0f0884baf7612d644183c5
+      internalID: -226796658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_186
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c3d285406f51f4397cc926af48b10d
+      internalID: 2080927250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_187
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c577e65929eab74994a8926ac7d8817
+      internalID: -557399190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_188
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ede5231f9e5a0648a242be70bcc3066
+      internalID: 994189655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_189
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdb6ff4711dec945a4304ee16487002
+      internalID: 1358511493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_190
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ae47a57f83fd45b2f5e3d926ae051
+      internalID: -345353027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_191
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e65f13b69f25794faac113b6c07fb16
+      internalID: -1214056685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09e5717ae5d2a46a6538a90c212871
+      internalID: 91953721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675c014a941f7d64f8d9eeece407c4e4
+      internalID: 1850408250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b1154c4356921459fd9ad5eb93c644
+      internalID: -1955090201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_195
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b38bd8cbaf217042b235dd48369bda8
+      internalID: 1662778265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc35bb2ee3fd2e4db1f47c83a6da3cb
+      internalID: 737654224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_197
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0640d49b19033c845b3128fe651f9b57
+      internalID: -300947522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_198
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48548aae3cbfdc148b8cfada5afc8557
+      internalID: -1137755470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3288e8a2a9b635944b527d82b2951dc3
+      internalID: 1293997826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcdfeaf500f4e74c9a2d1bbddbc5e29
+      internalID: -984017305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_201
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935312e9bda123d4492b3cfa17f06016
+      internalID: -742473733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_202
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3849d520b4e804dbf7c43074804888
+      internalID: 960575810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_203
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d02496f403880458cabc4ffbb5c1e5
+      internalID: 2087468350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0ef9c13e00fb94baafa1ac4e2d267d
+      internalID: -1192250100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_205
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd678faf33783d4b8778edac19d47e9
+      internalID: 1500117061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1945fdf66d4b38a4983273fac482b6e3
+      internalID: 1311310210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d521608f14de4b843a5db7eea0fea237
+      internalID: -944734475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a476bbe95ccb44380cb6cbb27d73e7
+      internalID: -10017184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_209
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0c2fcaf73c4c43b47da19d4e3f11a
+      internalID: -1098074965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_210
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534c63cc4714e0c4289084fad31e6661
+      internalID: 145010458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c078c19fa48f81443bfeaa414c96e8b1
+      internalID: 798173645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_212
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75a9ebe7bfa2b9449e81e764c536e2e
+      internalID: 1533732104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_213
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11856d0ac96942d4d8aa6b28151f53de
+      internalID: 1188948881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_214
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3d41e45134d8142bcc97c7df9bd709
+      internalID: -625944800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_215
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01580fb4337364744a7fca81877fc8ad
+      internalID: -1947631937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_216
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3ecdd4ef7cc63448667b971f65ae93
+      internalID: -358508366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_217
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363b67bc557001c4c9abe3828a47439e
+      internalID: -1722744554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b043befcf23a9f4b8cb500db3560f46
+      internalID: 1836817357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_219
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b3d78f6f968f44bfdbb12b8eeb8aa
+      internalID: -712521061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_220
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49062e1076e2d854db9b6911c2a4e322
+      internalID: -1129622434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_221
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dc9880c7476aa46b740ae401dc61a5
+      internalID: -516422838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_222
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4112bc80324e6b46999f9abd17f2581
+      internalID: 1585680255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a491b0e522f9d3d468a390a2b255225e
+      internalID: 1097383045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_224
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b857bb1f6307d140ba7de4e4954ac8c
+      internalID: -1114070947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_225
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012abfebe830d114ba8dcf894ec87b0a
+      internalID: 1653124077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_226
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbef577fa8a80a42bf5569b3263272b
+      internalID: 1350521191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_227
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f463ff7c9bdfea74eb0a5b0419926802
+      internalID: -1814917555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_228
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4392d52691c34f34795ed1b92b2c4add
+      internalID: 1871682948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_229
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedfa41159bc7aa49b4e4fc8970a9de9
+      internalID: -1341904379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_230
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa00891296228c5499236fbfd8b5b839
+      internalID: -744963629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b285b4285998d248b94ccf53e074456
+      internalID: -1207850912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_232
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5a03ee7f82fff4ea6720b47c9f8dbe
+      internalID: 1711852849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_233
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33cf5f98f8c9774dbbccbd8b460c3ba
+      internalID: 63773413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_234
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f3f87099f41ea428181fd98a0f1e4d
+      internalID: -1685717587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_235
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1d62e7dfbaa674491cd5c2a99dde3a
+      internalID: -1150812162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10002ce6b097c924db72e70328a1a916
+      internalID: 1819437269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_237
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152d78ab5069142408f45a665bed237b
+      internalID: 522719085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_238
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c627d0a3ab3ac41ae83305d2867273
+      internalID: 1453672925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_239
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d8d4ab1082d93408f6a0255540fbaf
+      internalID: -743041610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_240
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cbc1db3774d4f4cb2a6c38f783e666
+      internalID: 1034393947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_241
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7582b0bb21d136a4487b8581ab90b316
+      internalID: 368862743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_242
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73cf3d621dddae4cb71c18bdae9159a
+      internalID: 1635280577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_243
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93118c6dddcca0248a529db06c3fd8d2
+      internalID: -1978835722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_244
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0877091d9c6a82488ecde862cb5d49e
+      internalID: 104347293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_245
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0095d65c8eae97f41a0331b514333de3
+      internalID: -142039148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923f6bb1e16c5f94b9e4965370ae33bf
+      internalID: -1299161597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_247
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb7e3f5c2ae1f84885db5ab7dd1dc50
+      internalID: 1057244222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_248
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15746f3ce788e3143bfc6283343c3de2
+      internalID: -925546137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_249
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6249c23b2d18594789e06c3aeccb848
+      internalID: -120176567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_250
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c7f790c383bc4488ea67563b71c45f
+      internalID: -1768052101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_251
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238f14309f3d1c8428620098aecc231e
+      internalID: -2080086853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_252
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce527b0e931fd24dbbf63032c029cdd
+      internalID: -1111975026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_253
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36dc06e737dfa74d9a0114c662482c1
+      internalID: -667498486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2354f822ef6eab3499931a6739e23105
+      internalID: 1159263562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_255
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe7e696a1d0ec94e9a214e27eaffaf8
+      internalID: 939232916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_256
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419180883b16a2f48af2901f7cf27f83
+      internalID: -1138499776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_257
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f05b42dbdb46c94a8594e64b3b9181b
+      internalID: 681035476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_258
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ca032ec9de0a7428c3a1616ee40ead
+      internalID: -1877379020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_259
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5c32253eeab2344b39927e243a5a84
+      internalID: 653082261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_260
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4cbf189d6e9af499c150d88ca9ac66
+      internalID: 1900875117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_261
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6584b9e76012524bb433bf64fa6fd8b
+      internalID: 1937954295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_262
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77fc46a5178bd468b04b0a13484bb7
+      internalID: -521675875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_263
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa03d714a6dc334f8f707c8d6bdb34e
+      internalID: 1301573652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_264
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c26b4306e17f704f8b9d939d0970499
+      internalID: -1315475360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_265
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e92552fc2758f747bd7b2dd37f7854e
+      internalID: 722190388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_266
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f7ea05b6b46b748b24b67f296bd87b
+      internalID: 1158905741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_267
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46ae1e511b8219459ac699c6f1c9406
+      internalID: -627833140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_268
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a452627ce8a2f45a7adee284e85fca
+      internalID: -1844975521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_269
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cf8a8e84a57db4c8108d1c0557c40e
+      internalID: -1036281124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_270
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb102d9f186b3b94395bd2cae0e2b3cf
+      internalID: 143073734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_271
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5a01cee36c3374694dc7b1b16550e0
+      internalID: 1249305491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_272
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa04772a70bdf8458d5f1442e847d65
+      internalID: -660366995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_273
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347b08dc3345df544a12e54a459b33cc
+      internalID: 2005059252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_274
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c67a918413668147b30ce68874f9a1d
+      internalID: 810653738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_275
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b34c68adb36834190719f5f5bcb1c7
+      internalID: 963995600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_205: 1500117061
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_46: -111842371
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_151: -126542789
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_115: 454216586
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_44: -1104867295
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_62: -1144442609
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_60: 1109429137
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_88: -2015705785
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_183: 1396084536
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_77: -674348276
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_154: -1869354646
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_233: 63773413
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_75: 879275185
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_148: -533153990
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_101: 1596551597
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_273: 2005059252
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_136: 1081339235
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_104: -332034394
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_128: 707284809
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_267: -627833140
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_261: 1937954295
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_84: -1090967467
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_108: 2086525772
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_137: -1920365146
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_149: -623858334
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_121: -1241592900
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_49: 1758669885
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_93: -56848146
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_258: -1877379020
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_65: -480614062
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_67: 1244682069
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_116: -850527507
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_219: -712521061
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_254: 1159263562
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_98: -1024570358
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_13: 1592671335
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_43: 1055726454
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_97: 601828251
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_107: 540497494
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_118: -250970507
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_204: -1192250100
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_85: 2058000782
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_125: 1611739170
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_111: -220527940
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_155: 2133779162
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_73: -1084338716
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_95: -411272591
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_249: -120176567
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_181: 305753809
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_80: 541934464
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_175: 746579839
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_150: -156070804
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_35: 157232483
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_28: -991041958
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_171: -1376120050
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_59: 1458643345
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_256: -1138499776
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_271: 1249305491
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_56: 225318978
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_160: 358679646
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_274: 810653738
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_169: -1001394548
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_253: -667498486
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_165: 690228888
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_21: -478083411
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_270: 143073734
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_262: -521675875
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_133: -1475711215
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_158: -317856378
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_178: 1414007300
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_230: -744963629
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_0: 800858726
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_50: -2031250133
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_9: 630597064
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_143: -2095909645
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_71: 856888486
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_25: -1387619224
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_11: -272772614
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_122: 2076459324
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_272: -660366995
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_213: 1188948881
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_126: 633179977
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_200: -984017305
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_135: -50309077
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_179: 2009899669
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_168: -79247157
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_257: 681035476
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_53: 1217597161
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_32: -1782454027
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_105: -230862522
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_138: -1614309712
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_159: -94871981
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_124: -826415182
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_202: 960575810
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_117: 1727967108
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_31: -1043405315
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_114: -454234858
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_3: 1724935363
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_45: 1176491179
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_12: 1538327779
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_132: -843109077
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_30: -935628390
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_207: -944734475
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_196: 737654224
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_216: -358508366
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_212: 1533732104
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_246: -1299161597
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_90: -38858941
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_18: 437745827
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_157: -167069563
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_40: 411335734
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_247: 1057244222
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_14: 722194886
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_140: -1032860386
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_142: 492446975
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_173: -22291988
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_34: -975304971
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_134: -2105736173
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_225: 1653124077
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_123: -74964808
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_170: -1908632768
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_180: -1706296018
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_275: 963995600
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_87: 365189516
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_206: 1311310210
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_64: 311797779
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_8: -1659988940
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_190: -345353027
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_162: 2078969306
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_235: -1150812162
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_177: 1715628950
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_82: 1065183465
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_228: 1871682948
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_27: -1191060338
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_259: 653082261
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_7: 1534289052
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_208: -10017184
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_24: 114754554
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_242: 1635280577
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_102: -750094967
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_113: 1280640742
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_130: -298072593
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_145: -917451392
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_201: -742473733
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_26: -1131854060
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_174: -1025743175
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_166: 1819640994
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_187: -557399190
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_91: 1566219063
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_192: 91953721
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_76: 977682532
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_70: 760401589
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_237: 522719085
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_248: -925546137
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_55: 816558287
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_69: 1320147750
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_112: 870220423
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_195: 1662778265
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_211: 798173645
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_218: 1836817357
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_163: -1984196919
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_241: 368862743
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_109: 1689873588
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_52: -227735376
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_96: 661215336
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_245: -142039148
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_41: -1827412751
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_17: -1513053450
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_78: -1547265510
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_193: 1850408250
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_203: 2087468350
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_214: -625944800
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_6: 1231477139
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_20: -1451278725
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_234: -1685717587
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_39: -1041873154
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_129: 1714283313
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_139: -487573994
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_197: -300947522
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_255: 939232916
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_263: 1301573652
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_250: -1768052101
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_227: -1814917555
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_260: 1900875117
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_106: -1149032822
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_265: 722190388
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_36: 174754034
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_51: -1725236136
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_33: -1990828008
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_38: -1617689015
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_92: 729795788
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_167: -647441768
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_244: 104347293
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_251: -2080086853
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_42: -27785789
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_1: 438223989
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_231: -1207850912
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_23: 724300697
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_184: -949041453
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_229: -1341904379
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_47: 761965444
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_172: -1134104246
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_191: -1214056685
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_81: 1543034736
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_48: -1115952947
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_83: 2081079482
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_147: -189959133
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_146: -1675812082
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_15: -1023816295
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_161: -878067775
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_232: 1711852849
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_144: -618492584
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_22: -2065894635
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_100: 1491230544
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_99: 1020501935
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_224: -1114070947
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_37: 1361662462
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_188: 994189655
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_269: -1036281124
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_74: -323074686
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_63: -1150650149
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_215: -1947631937
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_19: 1187386097
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_189: 1358511493
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_119: -1550102559
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_182: 20521243
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_221: -516422838
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_186: 2080927250
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_58: 69399030
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_110: -1874716982
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_222: 1585680255
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_268: -1844975521
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_120: 868237602
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_210: 145010458
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_226: 1350521191
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_153: 1171849692
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_209: -1098074965
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_164: 290707189
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_2: -1463245191
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_152: -1335227004
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_156: 1287014094
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_199: 1293997826
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_198: -1137755470
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_185: -226796658
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_61: 552360590
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_220: -1129622434
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_79: 925886290
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_223: 1097383045
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_5: -624490879
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_141: 631556257
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_264: -1315475360
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_103: -359791722
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_236: 1819437269
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_4: -1772501356
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_72: 534126613
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_239: -743041610
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_194: -1955090201
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_86: 1644736425
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_240: 1034393947
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_16: 1712376715
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_54: -1235041540
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_29: 1473838285
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_57: -1319932144
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_10: 1064597087
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_127: 1951816114
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_238: 1453672925
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_66: 219339504
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_94: -1272970977
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_176: 1420230248
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_68: -1688105109
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_266: 1158905741
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_252: -1111975026
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_217: -1722744554
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_89: -492064820
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_131: -1199530182
+      pnghut_tile-based-video-game-pixel-art-tiled-role-playing-sprite-tree-pull-down_243: -1978835722
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
