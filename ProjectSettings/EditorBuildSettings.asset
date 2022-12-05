@@ -8,8 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-<<<<<<< Updated upstream
-=======
   - enabled: 1
     path: Assets/Scenes/LoadingProgress.unity
     guid: b0a6bd2cd7f55ea40ad9857f5cad6b31
@@ -34,5 +32,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BossFightScene.unity
     guid: 78088347302ca774db942800e1540d53
->>>>>>> Stashed changes
   m_configObjects: {}
