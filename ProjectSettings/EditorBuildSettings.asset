@@ -8,4 +8,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+<<<<<<< Updated upstream
+=======
+  - enabled: 1
+    path: Assets/Scenes/LoadingProgress.unity
+    guid: b0a6bd2cd7f55ea40ad9857f5cad6b31
+  - enabled: 1
+    path: Assets/Scenes/MapGame1.unity
+    guid: 3fc8d783caeb4f5409ac4e1c5fe9df59
+  - enabled: 1
+    path: Assets/Scenes/Prolog.unity
+    guid: cafd6bfd574b6f34d8e176fc71d4f576
+  - enabled: 1
+    path: Assets/Scenes/Tawanan1BentengDuurstede.unity
+    guid: 7f13efe218cb6af43a24e53c008c6eb1
+  - enabled: 1
+    path: Assets/Scenes/Tawanan1BentengZeelandia.unity
+    guid: 517edb3551237bb43b9fe8eea8beddbd
+  - enabled: 1
+    path: Assets/Scenes/Tawanan2.unity
+    guid: 27e9a83088edcbc42907ebbf25dbcd31
+  - enabled: 1
+    path: Assets/Scenes/Tawanan3.unity
+    guid: c04dd9561b5fef74b8a5930125f582dd
+  - enabled: 1
+    path: Assets/Scenes/BossFightScene.unity
+    guid: 78088347302ca774db942800e1540d53
+>>>>>>> Stashed changes
   m_configObjects: {}
